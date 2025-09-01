@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Datos y artefactos
+deep-learning/data/
+deep-learning/results/gen_dcgan_eval/
+deep-learning/results/gen_lsgan_eval/
+deep-learning/results/gen_wgan_gp_eval/
+deep-learning/results/real_eval/
